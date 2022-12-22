@@ -4,12 +4,12 @@ MATLAB codes for control of a quadrupedal robot built with Lego Mindstorm EV3.
 # Mechanical construction
 
 ![alt text](https://user-images.githubusercontent.com/55883119/209238749-aeb857f8-1727-47d0-bb86-5cf9076a7a51.jpeg)
-
+Figure 1: Quadrupedal robot
 
 Mechanical construction section basically requires building the robot by using small LEGO parts and control brick. Addition to LEGO parts and control brick, IR and touch sensor are employed. IR sensor was used to control robot remotely. Touch sensor was used in construction to be used in calibration.
-The figures represents the side, back and front views of the robot.
 
-Figure 2: The robot from front view
+
+
 
 # Control
 
