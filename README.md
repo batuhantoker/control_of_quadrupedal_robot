@@ -23,7 +23,7 @@ As it can be seen in the figures, robot is statically stable in terms of 4 conta
 
 ![alt text](https://user-images.githubusercontent.com/55883119/209238822-331f9a8b-7a54-4eb9-9a87-021758dfaa94.png)
 
-Before the remote.m that allows us to control the robot legs, a calibration is must be done with “calibration.m”.
+Before the remote.m that allows us to control the robot legs, a calibration must be done with “calibration.m”.
 
 When there is need to turn one leg turn at 0.2 times of the original speed. Basically, the movement is going forward, backwards turn right and left. For three cases it had been done.
 
